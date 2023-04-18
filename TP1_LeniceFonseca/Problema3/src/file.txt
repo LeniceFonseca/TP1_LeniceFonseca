@@ -1,0 +1,5 @@
+Array [ 46 59 56 34 68 87 86 14 40 56 ]
+Indice Par [ 46 56 68 86 40 ]
+Elementos Pares [ 46 56 34 68 86 14 40 56 ]
+Array inverso [ 56 40 14 86 87 68 34 56 59 46 ]
+Primeiro elemento = 46 & Ultimo elemento = 56
